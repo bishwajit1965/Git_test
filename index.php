@@ -10,6 +10,7 @@
 	<div class="container">
 		<h1>Hello world.</h1>
 		<p>I am a Bangladeshi. I love my counntry very much.</p>
+		<img src="img_01.jpg" alt="Image">
 		
 	</div>
 </body>

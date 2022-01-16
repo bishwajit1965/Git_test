@@ -18,3 +18,8 @@ h1{
 body {
 	background-color: #DDD;
 }
+
+img{
+	max-width: 100%;
+  	height: auto;
+}

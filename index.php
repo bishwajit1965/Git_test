@@ -10,7 +10,12 @@
 	<div class="container">
 		<h1>Hello world.</h1>
 		<p>I am a Bangladeshi. I love my counntry very much.</p>
+<<<<<<< HEAD
 		<p>This line was added in emergency-fix</p>
+=======
+		<img src="img_01.jpg" alt="Image">
+		
+>>>>>>> hello-world
 	</div>
 </body>
 </html>
